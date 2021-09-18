@@ -1,0 +1,6 @@
+GDSC   UVCE
+Roots: Let’s Get Dev-ing!
+The linkTree website provides links to all social media accounts of mine. The main aim of this website is to guide users to one’s various social media links and to have all of them at one place. This webpage  is created using  HTML and CSS.  
+
+Website created by :
+N V Dixitha Reddy  ,1st year ISE
